@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{60596614-C549-4828-A676-C09E20BD6782}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="client/RSAclient.cs">
+    <Files>
+      <File FileName="client/Program.cs" Line="16" Column="2" />
+      <File FileName="client/RSAclient.cs" Line="12" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

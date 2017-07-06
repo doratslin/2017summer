@@ -1,0 +1,5 @@
+/Users/doralin/Projects/client/client/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/doralin/Projects/client/client/bin/Debug/client.pdb
+/Users/doralin/Projects/client/client/bin/Debug/client.exe
+/Users/doralin/Projects/client/client/obj/x86/Debug/client.exe
+/Users/doralin/Projects/client/client/obj/x86/Debug/client.pdb
