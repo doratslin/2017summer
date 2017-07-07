@@ -3,7 +3,7 @@ using System.Text;
 using System.Net;
 using System.Net.Sockets;
 
-public class server
+public class Server
 {
 	public static void Main()
 	{
@@ -33,6 +33,7 @@ public class server
 			s.Send(Asen.GetBytes(Convert.ToString(rsa.getN())));
 			s.Send(Asen.GetBytes(Convert.ToString(rsa.getD())));
 			byte[] b;
+
 
 			while (true)
 			{
@@ -66,3 +67,18 @@ public class server
 	}
 
 }
+
+/*
+現在好想練中打速度 可惡的鄭家枏
+
+用這邊來練中打速度
+我才不相信我打字很慢
+應該算不錯快了雖然不是用正規打字法
+討厭
+選自（選字
+好吧真的好像有點慢
+放棄
+ＲＲＲＲＲＲＲＲＲ
+怎麼辦我還是好想睡
+
+*/

@@ -75,7 +75,7 @@ public class RSAServer
 		D = k / E;
 
 		Console.WriteLine("D is {0}, E is {1}; pkey is {2}, qkey is {3}; N is {4}.", D, E, pkey, qkey, N);
-	}// end RSA()
+	}// end RSAServer()
 
 	public string decryptMsg(string S)
 	{
